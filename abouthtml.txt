@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Sample Website - About</title>
+</head>
+<body>
+    <header>
+        <h1>About Us</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h2>About Our Website</h2>
+        <p>This is some content for the about page.</p>
+    </main>
+    <footer>
+        <p>&copy; 2023 My Sample Website</p>
+    </footer>
+</body>
+</html>
