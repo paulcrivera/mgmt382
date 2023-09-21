@@ -1,0 +1,18 @@
+<table>
+  <tr>
+    <td>Header 1</td>
+    <td>Header 2</td>
+  </tr>
+  <tr>
+    <td>Data 1</td>
+    <td>Data 2</td>
+  </tr>
+</table>
+
+<form action="/action_page.php" method="post">
+  <input type="text" name="firstname" placeholder="First name">
+  <input type="text" name="lastname" placeholder="Last name">
+  <input type="submit" value="Submit">
+</form>
+
+<iframe src="https://www.example.com" width="500" height="300"></iframe>
